@@ -16,6 +16,16 @@ Here is a list of ruby terms and definitions used in class.
 <em>**Gem**</em> - a library, extension, or package. <br>
 
 ## Part 2
+<em>**Conditional**</em> - Subject to requirements being met, like in a conditional statement. (If/else statements) <br>
+<em>**The difference between if, elseif and else.**</em> - <em>**IF**</em> a condition is met, the code block will run.
+<em>**ELSE IF**</em> the first condition was not met, but then this condition is met, this code block will run.<br>
+<em>**ELSE**</em> if the condition(s) is/are NOT met, this code block will run.
+<em>**What are Case/When statements?**</em> - A type of if/else statement version. You can work with a single variable, your "case", and when certain conditions are true the code block runs.  <br>
+<em>**What is a data structure?**</em> - Data structures are ways to organize data, like an array or a hash. <br>
+<em>**Arrays**</em> - A set of information contained within square brackets [], ordered with an index that starts at 0. <br>
+<em>**What is meant by 'built-in' methods?**</em> - built in methods are methods that are already built into the language. There are various methods you can use like join, pop, push, etc.  <br>
+<em>**Loops**</em> - a way you can iterate over data, or run the same block of code over and over again until a condition is met, until the code has run a specific number of times, or until the end of the data.<br>
+<em>**What are infinite loops?**</em> - Loops that haven't been built properly so the loop is never exited. <br>
 
 ## Part 3
 
